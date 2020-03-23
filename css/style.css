@@ -3,8 +3,8 @@ body {
   box-sizing: border-box;
 }
 
-nav#mainNav {
-	background: transparent; 
+nav.navbar {
+  padding: 20px;
 	/* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 
@@ -20,7 +20,7 @@ header.header-text {
 }
 
 header.header-text {
-  padding: 105px 0 42px;
+  padding: 73px 0 42px;
 }
 
 header.header-text p {
@@ -73,7 +73,7 @@ form label.f-password a{
 header.header-text div.left {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	background-color: #191935;
-  max-width: 400px;
+  max-width: 420px;
   margin:auto;
 }
 
